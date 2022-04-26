@@ -1,6 +1,6 @@
 Package: wiggleplotr
 Title: Make read coverage plots from BigWig files
-Version: 1.19.1
+Version: 1.20.0
 Author: Kaur Alasoo [aut, cre]
 Maintainer: Kaur Alasoo <kaur.alasoo@gmail.com>
 Description: Tools to visualise read coverage from sequencing
